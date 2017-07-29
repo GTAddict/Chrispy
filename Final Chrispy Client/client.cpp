@@ -1,7 +1,3 @@
-/* This code Copyright (c)2012 GTAddict. Any motherfucker fucking
-	with it gets a fucking lawsuit shoved up their bloody arse.
-	So don't even try. Contact: soregtaddict@gmail.com.	Don't spam.	*/
-
 #include"stdafx.h"		// All the common and required headers: windows, winsock, blah...
 #include"capture.h"		// Our screen capture module
 #include"network.h"		// Our network communication module
